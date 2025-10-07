@@ -1,3 +1,8 @@
 html{
-    background-color: rgb(224, 215, 134);
+    background-color: rgb(62, 103, 74);
+}
+.random{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2.3rem;
+    color: rgb(42, 54, 22);
 }
